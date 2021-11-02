@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          visit us @ snackcircus.com
+          visit us @snackcircus.com
         </a>
       </header>
       <AmplifySignOut />
